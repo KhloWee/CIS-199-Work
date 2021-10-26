@@ -1,0 +1,13 @@
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\bin\Debug\netcoreapp3.1\Program 4.exe
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\bin\Debug\netcoreapp3.1\Program 4.deps.json
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\bin\Debug\netcoreapp3.1\Program 4.runtimeconfig.json
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\bin\Debug\netcoreapp3.1\Program 4.runtimeconfig.dev.json
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\bin\Debug\netcoreapp3.1\Program 4.dll
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\bin\Debug\netcoreapp3.1\Program 4.pdb
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\obj\Debug\netcoreapp3.1\Program 4.csprojAssemblyReference.cache
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\obj\Debug\netcoreapp3.1\Program 4.AssemblyInfoInputs.cache
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\obj\Debug\netcoreapp3.1\Program 4.AssemblyInfo.cs
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\obj\Debug\netcoreapp3.1\Program 4.csproj.CoreCompileInputs.cache
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\obj\Debug\netcoreapp3.1\Program 4.dll
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\obj\Debug\netcoreapp3.1\Program 4.pdb
+D:\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 4\Program 4\Program 4\Program 4\obj\Debug\netcoreapp3.1\Program 4.genruntimeconfig.cache
