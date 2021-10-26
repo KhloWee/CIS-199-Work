@@ -1,0 +1,10 @@
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\obj\Debug\Lab 4.csprojAssemblyReference.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\obj\Debug\Lab_4.Form1.resources
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
