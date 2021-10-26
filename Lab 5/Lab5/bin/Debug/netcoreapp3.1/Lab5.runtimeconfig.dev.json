@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\botki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\botki\\.nuget\\packages"
+    ]
+  }
+}

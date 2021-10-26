@@ -1,0 +1,15 @@
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\bin\Debug\netcoreapp3.1\Program 1.exe
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\bin\Debug\netcoreapp3.1\Program 1.deps.json
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\bin\Debug\netcoreapp3.1\Program 1.runtimeconfig.json
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\bin\Debug\netcoreapp3.1\Program 1.runtimeconfig.dev.json
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\bin\Debug\netcoreapp3.1\Program 1.dll
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\bin\Debug\netcoreapp3.1\Program 1.pdb
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program 1.csprojAssemblyReference.cache
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program_1.Form1.resources
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program 1.csproj.GenerateResource.cache
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program 1.AssemblyInfoInputs.cache
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program 1.AssemblyInfo.cs
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program 1.csproj.CoreCompileInputs.cache
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program 1.dll
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program 1.pdb
+C:\Users\botki\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Program 1\Program 1\Program 1\obj\Debug\netcoreapp3.1\Program 1.genruntimeconfig.cache
