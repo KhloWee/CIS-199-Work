@@ -1,0 +1,7 @@
+C:\Users\botki\Desktop\ProductRev\ProductRev\bin\Debug\ProductRev.exe.config
+C:\Users\botki\Desktop\ProductRev\ProductRev\bin\Debug\ProductRev.exe
+C:\Users\botki\Desktop\ProductRev\ProductRev\bin\Debug\ProductRev.pdb
+C:\Users\botki\Desktop\ProductRev\ProductRev\obj\Debug\ProductRev.csprojAssemblyReference.cache
+C:\Users\botki\Desktop\ProductRev\ProductRev\obj\Debug\ProductRev.csproj.CoreCompileInputs.cache
+C:\Users\botki\Desktop\ProductRev\ProductRev\obj\Debug\ProductRev.exe
+C:\Users\botki\Desktop\ProductRev\ProductRev\obj\Debug\ProductRev.pdb

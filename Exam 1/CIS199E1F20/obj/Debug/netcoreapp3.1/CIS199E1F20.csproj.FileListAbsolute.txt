@@ -1,0 +1,13 @@
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\bin\Debug\netcoreapp3.1\CIS199E1F20.exe
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\bin\Debug\netcoreapp3.1\CIS199E1F20.deps.json
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\bin\Debug\netcoreapp3.1\CIS199E1F20.runtimeconfig.json
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\bin\Debug\netcoreapp3.1\CIS199E1F20.runtimeconfig.dev.json
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\bin\Debug\netcoreapp3.1\CIS199E1F20.dll
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\bin\Debug\netcoreapp3.1\CIS199E1F20.pdb
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\obj\Debug\netcoreapp3.1\CIS199E1F20.csprojAssemblyReference.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\obj\Debug\netcoreapp3.1\CIS199E1F20.AssemblyInfoInputs.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\obj\Debug\netcoreapp3.1\CIS199E1F20.AssemblyInfo.cs
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\obj\Debug\netcoreapp3.1\CIS199E1F20.csproj.CoreCompileInputs.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\obj\Debug\netcoreapp3.1\CIS199E1F20.dll
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\obj\Debug\netcoreapp3.1\CIS199E1F20.pdb
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\CIS199E1F20\CIS199E1F20\obj\Debug\netcoreapp3.1\CIS199E1F20.genruntimeconfig.cache

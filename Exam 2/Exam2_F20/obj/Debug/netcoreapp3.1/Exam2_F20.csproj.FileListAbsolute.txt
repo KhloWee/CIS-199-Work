@@ -1,0 +1,13 @@
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\bin\Debug\netcoreapp3.1\Exam2_F20.exe
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\bin\Debug\netcoreapp3.1\Exam2_F20.deps.json
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\bin\Debug\netcoreapp3.1\Exam2_F20.runtimeconfig.json
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\bin\Debug\netcoreapp3.1\Exam2_F20.runtimeconfig.dev.json
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\bin\Debug\netcoreapp3.1\Exam2_F20.dll
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\bin\Debug\netcoreapp3.1\Exam2_F20.pdb
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\obj\Debug\netcoreapp3.1\Exam2_F20.csprojAssemblyReference.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\obj\Debug\netcoreapp3.1\Exam2_F20.AssemblyInfoInputs.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\obj\Debug\netcoreapp3.1\Exam2_F20.AssemblyInfo.cs
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\obj\Debug\netcoreapp3.1\Exam2_F20.csproj.CoreCompileInputs.cache
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\obj\Debug\netcoreapp3.1\Exam2_F20.dll
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\obj\Debug\netcoreapp3.1\Exam2_F20.pdb
+C:\Users\Gaming-PC\OneDrive - University of Louisville\Junior Fall\CIS 199-02\My Labs\Exam 2\Exam2_F20\Exam2_F20\obj\Debug\netcoreapp3.1\Exam2_F20.genruntimeconfig.cache
